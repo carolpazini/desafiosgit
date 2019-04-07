@@ -1,4 +1,5 @@
-div{
+fieldset{
 	border: 1px solid grey;
 	padding: 10px;
+	line-height: 1.5;
 }
